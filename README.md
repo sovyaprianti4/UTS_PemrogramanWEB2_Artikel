@@ -4,7 +4,7 @@
 ## Kelas : I24ID
 ## Mata Kuliah : Pemrograman Web 2
 
-# Implementasi WebSocket untuk Komunikasi Real-Time
+# Implementasi WebSocket sebagai Solusi Komunikasi Real-Time
 
 ## Deskripsi
 
